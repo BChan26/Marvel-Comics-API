@@ -4,7 +4,7 @@
 
 ### [Trello Invite Link to View](https://trello.com/invite/b/8Jibxuu4/750705a2f1c82f0abe6ff47730fcf268/marvel-comics-api "Trello")
 
-![wireframe](https://github.com/BChan26/Marvel-Comics-API/blob/main/Brandon%20Chan%20Wire%20Frame%20-%2010:13.png "Wireframe")
+![wireframe](https://github.com/BChan26/Marvel-Comics-API/blob/main/Assets/Brandon%20Chan%20Wire%20Frame%20-%2010:13.png "Wireframe")
 
 ### Description: 
 - Similar to how the pokedex pulled up information about your search/parameter, I want to create the same thing but for Marvel Comics.
